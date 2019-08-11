@@ -227,7 +227,22 @@
       linkedin: https://www.linkedin.com/in/pawan-kumar-gorai-b79508161/
   img: https://avatars2.githubusercontent.com/u/32352500?s=400&v=4
 
-#Members
+#Members  
+- category: Member
+  name:  Rohan Verma
+  title: Member
+  desc: I'm a 1st year B.Tech CSE student at ITER.
+  stack: 
+    - Python
+    - Java
+    - C++
+    - C
+  social-links:
+    github: https://github.com/MartyMinaic
+    facebook: https://www.facebook.com/rohanvermaara
+    instagram: https://instagram.com/marty_miniac/
+  img: https://avatars3.githubusercontent.com/u/53369178?s=460&v=4
+  
 - category: Member
   name: Nehal
   title: Member
